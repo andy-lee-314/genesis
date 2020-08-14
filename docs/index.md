@@ -1,2 +1,1 @@
-http://sg.yahoo.com - automatic
-[Greeting Card](http://sg.yahoo.com)
+Check out the [greeting card](2020_jenn48/index.html)...
